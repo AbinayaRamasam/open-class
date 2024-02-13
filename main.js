@@ -1,0 +1,5 @@
+let inputEcriture = document.getElementById("inputEcriture")
+let btnValider = document.getElementById("btnValider")
+let divZoneProposition = document.querySelector(".zoneProposition")
+let spanScore = document.querySelector(".zoneScore span")
+let radioBtn = document.querySelectorAll(".optionSource input")
